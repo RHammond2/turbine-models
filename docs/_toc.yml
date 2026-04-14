@@ -1,0 +1,85 @@
+format: jb-book
+root: intro
+chapters:
+- file: Distributed/index
+  sections:
+  - file: Distributed/2019COE_DW100_100kW_27.6
+  - file: Distributed/2019COE_DW20_20kW_12.4
+  - file: Distributed/BergeyExcel10_8.9kW_7
+  - file: Distributed/BergeyExcel15_15.6kW_9.6
+  - file: Distributed/Bestwind30_27.2kW_13.1
+  - file: Distributed/CF10A_10kW_11.15
+  - file: Distributed/CF11A_11kW_11.15
+  - file: Distributed/CF11_11kW_9.36
+  - file: Distributed/CF15_15kW_11.15
+  - file: Distributed/CF20_20kW_13.1
+  - file: Distributed/EWT_DW52_900kW_51.5
+  - file: Distributed/EWT_DW54X_1MW_54.1
+  - file: Distributed/EWT_DW54_900kW_54
+  - file: Distributed/EWT_DW58_1MW_58
+  - file: Distributed/EWT_DW61_1MW_60.9
+  - file: Distributed/EntegrityEW50_50kW_15
+  - file: Distributed/FortisMontana_3.31kW_5.04
+  - file: Distributed/GhrepowerFD21-50_61.2kW_21.5
+  - file: Distributed/Jacobs31-20_12kW_9.45
+  - file: Distributed/Kestrele400nb_2.5kW_4
+  - file: Distributed/NPS100B-21_100kW_20.7
+  - file: Distributed/NPS100B-24C_95kW_24.4
+  - file: Distributed/NPS100B-24_95kW_23.6
+  - file: Distributed/NPS100C-21_100kW_20.7
+  - file: Distributed/NPS100C-24_95kW_24.4
+  - file: Distributed/NPS100C-27_90kW_27.4
+  - file: Distributed/NPS100C-28_90kW_27.6
+  - file: Distributed/NPS100C-28_90kW_28
+  - file: Distributed/NPS60C-24_60kW_24.4
+  - file: Distributed/PikaT701_1.5kW_3
+  - file: Distributed/SD6_5.2kW_5.5
+  - file: Distributed/SWIFT_1kW_2.1
+  - file: Distributed/Skystream3.7_2.1kW_3.7
+  - file: Distributed/VestasV27_225kW_27
+  - file: Distributed/VestasV29_225kW_29
+- file: Onshore/index
+  sections:
+  - file: Onshore/2017COE_Market_Average_2.3MW_113
+  - file: Onshore/2018COE_Market_Average_2.4MW_116
+  - file: Onshore/2019COE_Market_Average_2.6MW_121
+  - file: Onshore/2020ATB_NREL_Reference_4MW_150
+  - file: Onshore/2020ATB_NREL_Reference_5.5MW_175
+  - file: Onshore/2020ATB_NREL_Reference_7MW_200
+  - file: Onshore/2023NREL_Bespoke_3.3MW_148
+  - file: Onshore/2023NREL_Bespoke_3MW_127.5
+  - file: Onshore/2023NREL_Bespoke_6MW_170
+  - file: Onshore/2023NREL_Bespoke_6MW_196
+  - file: Onshore/2023NREL_Bespoke_8.3MW_196
+  - file: Onshore/BAR_BAU-LBNL-IEA_3.3MW_156
+  - file: Onshore/BAR_BAU_LowSP_3.25MW_166
+  - file: Onshore/BAR_BAUa_5.0MW_167.4
+  - file: Onshore/BAR_HighSP_5.0MW_134.9
+  - file: Onshore/BAR_LowSP_4.5MW_194
+  - file: Onshore/BAR_LowSP_6.5MW_234
+  - file: Onshore/DOE_GE_1.5MW_77
+  - file: Onshore/IEA_Reference_3.4MW_130
+  - file: Onshore/IEC_Class1_Normalized_Industry_Composite
+  - file: Onshore/IEC_Class2_Normalized_Industry_Composite
+  - file: Onshore/IEC_Class3_Normalized_Industry_Composite
+  - file: Onshore/VestasV47_660kW_47
+  - file: Onshore/VestasV82_1.65MW_82
+  - file: Onshore/WTK_Validation_IEC-1_normalized
+  - file: Onshore/WTK_Validation_IEC-2_normalized
+  - file: Onshore/WTK_Validation_IEC-3_normalized
+- file: Offshore/index
+  sections:
+  - file: Offshore/2016CACost_NREL_Reference_10MW_205
+  - file: Offshore/2016CACost_NREL_Reference_6MW_155
+  - file: Offshore/2016CACost_NREL_Reference_8MW_180
+  - file: Offshore/2019ORCost_NREL_Reference_12MW_222
+  - file: Offshore/2019ORCost_NREL_Reference_15MW_248
+  - file: Offshore/2020ATB_NREL_Reference_12MW_214
+  - file: Offshore/2020ATB_NREL_Reference_15MW_240
+  - file: Offshore/2020ATB_NREL_Reference_18MW_263
+  - file: Offshore/DTU_Reference_v1_10MW_178
+  - file: Offshore/IEA_Reference_10MW_198
+  - file: Offshore/IEA_Reference_15MW_240
+  - file: Offshore/LEANWIND_Reference_8MW_164
+  - file: Offshore/NREL_Reference_5MW_126
+  - file: Offshore/WTK_Validation_offshore_normalized
