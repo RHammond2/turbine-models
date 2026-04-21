@@ -36,8 +36,7 @@ The .csv file can be found online in the GitHub at [turbine_models/data/Onshore/
 
 ## References
 
-
-    ```{bibliography}
-    :filter: docname in docnames
-    ```
-    
+```{bibliography}
+:filter: docname in docnames
+:style: unsrt
+```
