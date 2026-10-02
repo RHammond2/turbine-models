@@ -6,6 +6,10 @@ The .csv file can be found online in the GitHub at [turbine_models/data/Distribu
 
 ## Key Parameters
 
+The performance data comes from a power performance test conducted by the Small Wind Certification
+Council (SWCC) {cite:p}`icc_swcc_10_12`. Other information available from the manufacturer
+{cite:p}`bergey_excel_10`.
+
 | Item               | Value                                 | Units    |
 |:-------------------|:--------------------------------------|:---------|
 | Name               | Bergey_Excel_10                       | N/A      |

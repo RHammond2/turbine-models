@@ -69,7 +69,6 @@ pip install turbine-models
         ```bash
         pip install ".[examples]"
         ```
-    
     - for development dependencies and running tests. Note the `-e` flag which installs turbine-models in-place so you can edit the turbine-models package files: 
         
         ```bash
